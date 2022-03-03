@@ -1,5 +1,5 @@
-# Tic-Tac-Toe-Odin-Project
+# Rock - Paper - Scissor -Project
 
-First Iteration of Tic-Tac-Toe (The Odin Project)
+First Iteration of Rock - Paper - Scissors (The Odin Project)
 
-Tic-Tac-Toe version 0.01
+RPS version 0.01
